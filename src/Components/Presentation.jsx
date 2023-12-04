@@ -21,12 +21,12 @@ const Presentation = () => {
                         <br /> Desarrollador Full-Stack
                     </p>
                         Ingeniero de sistemas, con conocimientos en desarrollo de software y bases de datos.
-                        con enfasis enel desarrollo web, poseo habilidades tanto para el frontend utilizando 
-                        tecnologías como ReactJs, asícomo también, para el backend usando frameworks como lo son NodeJs
-                        y Springboot, tambiéntengo conocimiento en el diseño e implementación de bases de datos
-                        relacionales SQL y norelacionales NOSQL, manejo de servidores sobre infraestructura Linux
+                        con enfasis en el desarrollo web, poseo habilidades tanto para el frontend utilizando 
+                        tecnologías como ReactJs, así como también, para el backend usando frameworks como lo son NodeJs
+                        y Springboot, también tengo conocimiento en el diseño e implementación de bases de datos
+                        relacionales SQL y no relacionales NOSQL, manejo de servidores sobre infraestructura Linux
                         y servicios computacionales enla nube con Microsoft Azure. Para finalizar, soy una persona
-                        proactiva, dispuesta a aprender nuevascosas y a enfrentar nuevos retos que me permitan
+                        proactiva, dispuesta a aprender nuevas cosas y a enfrentar nuevos retos que me permitan
                         crecer profesionalmente y mejorar cada día.
                 </div>
             </div>
