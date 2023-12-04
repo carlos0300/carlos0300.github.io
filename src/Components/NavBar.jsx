@@ -2,7 +2,7 @@ import React from 'react'
 const NavBar = () => {
   return (
     <div>
-      <nav class="navbar navbar-expand-md py-2" data-bs-theme="dark" style={{backgroundColor: "#154360"}}>
+      <nav class="navbar navbar-expand-md py-2" data-bs-theme="dark" style={{backgroundColor: "#043050"}}>
       <div class="container " >
         <a class="navbar-brand fs-4" href="/">Perfil</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">

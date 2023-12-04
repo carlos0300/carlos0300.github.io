@@ -12,21 +12,22 @@ const Presentation = () => {
         <div class="container">
             <div id='presentacion' class="row justify-content-center py-4">
             <h4 class="mb-3 text-white">Presentación</h4>
-                <div class="col-md-5 col-lg-4 col-xl-3 py-2 align-self-center" >
-                    <img alt='Carlos Becerra' src='/perfil.jpg' class="card-img-top mx-auto my-3" style={{width: 200}} />
+                <div class="col-md-4 col-lg-3 col-xl-3 py-2 align-self-center" >
+                    <img alt='Carlos Becerra' src='/perfil2.png' class="card-img-top mx-auto my-3" style={{width: 230, background: "white", borderRadius: "100%"}} />
                 </div>
-                <div class="col-md-7 col-lg-8 col-xl-8 my-auto fs-5 text-white" style={{textAlign: "justify"}} >
+                <div class="col-md-8 col-lg-9 col-xl-9 my-auto fs-5 text-white" style={{textAlign: "justify"}} >
                     <p class="text-white">Carlos Eduardo Becerra Lizarazo
                         <br /> Ingeniero de Sistemas
                         <br /> Desarrollador Full-Stack
                     </p>
-                    Mi nombre es Carlos Eduardo Becerra Lizarazo, tengo 23 años,
-                    soy ingeniero de sistemas e informática y un gran apasionado por la tecnología. Como parte de mi desarrollo 
-                    profesional, he logrado adquirir ciertas cualidades como responsabilidad, 
-                    honestidad, comunicación asertiva y trabajo en equipo. Además, 
-                    soy una persona proactiva, dispuesta a aprender nuevas cosas y 
-                    a enfrentar nuevos retos que me permitan crecer 
-                    profesionalmente y mejorar cada día.
+                        Ingeniero de sistemas, con conocimientos en desarrollo de software y bases de datos.
+                        con enfasis enel desarrollo web, poseo habilidades tanto para el frontend utilizando 
+                        tecnologías como ReactJs, asícomo también, para el backend usando frameworks como lo son NodeJs
+                        y Springboot, tambiéntengo conocimiento en el diseño e implementación de bases de datos
+                        relacionales SQL y norelacionales NOSQL, manejo de servidores sobre infraestructura Linux
+                        y servicios computacionales enla nube con Microsoft Azure. Para finalizar, soy una persona
+                        proactiva, dispuesta a aprender nuevascosas y a enfrentar nuevos retos que me permitan
+                        crecer profesionalmente y mejorar cada día.
                 </div>
             </div>
             {/**Second topic */}
